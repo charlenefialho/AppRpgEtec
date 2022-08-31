@@ -1,3 +1,12 @@
+D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\bin\Debug\AppRpgEtec.Android.dll
+D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\bin\Debug\AppRpgEtec.Android.pdb
+D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\bin\Debug\com.companyname.apprpgetec.apk
+D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\bin\Debug\com.companyname.apprpgetec.aab
+D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\bin\Debug\com.companyname.apprpgetec-Signed.aab
+D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\bin\Debug\com.companyname.apprpgetec-Signed.apk
+D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\bin\Debug\com.companyname.apprpgetec-Signed.apk.idsig
+D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\bin\Debug\AppRpgEtec.dll
+D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\bin\Debug\AppRpgEtec.pdb
 D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\MonoAndroid,Version=v12.0.AssemblyAttributes.cs
 D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\build.props
 D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\adb.props
@@ -29,15 +38,7 @@ D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\lp\96\
 D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\lp\97\jl\files.cache
 D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\lp\98\jl\files.cache
 D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\lp\103\jl\files.cache
-D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\bin\Debug\AppRpgEtec.Android.dll
-D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\bin\Debug\AppRpgEtec.Android.pdb
-D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\bin\Debug\com.companyname.apprpgetec.apk
-D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\bin\Debug\com.companyname.apprpgetec.aab
-D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\bin\Debug\com.companyname.apprpgetec-Signed.aab
-D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\bin\Debug\com.companyname.apprpgetec-Signed.apk
-D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\bin\Debug\com.companyname.apprpgetec-Signed.apk.idsig
-D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\bin\Debug\AppRpgEtec.dll
-D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\bin\Debug\AppRpgEtec.pdb
+D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\R.txt
 D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\R.cs.flag
 D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\AppRpgEtec.Android.csproj.CoreCompileInputs.cache
 D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\AppRpgEtec.Android.csproj.CopyComplete
@@ -63,7 +64,6 @@ D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\res\mi
 D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\res\mipmap-xxxhdpi\launcher_foreground.png
 D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\res\drawable\has_logo_transparente.png
 D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\res\drawable\abertura.png
-D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\R.txt
 D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\uploadflags.txt
 D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\resolvedassemblies.hash
 D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\android\assets\AppRpgEtec.Android.dll
@@ -81,6 +81,7 @@ D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\androi
 D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\android\assets\mscorlib.dll
 D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\android\assets\mscorlib.pdb
 D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\android\assets\netstandard.dll
+D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\android\assets\Newtonsoft.Json.dll
 D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\android\assets\System.ComponentModel.Composition.dll
 D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\android\assets\System.ComponentModel.Composition.pdb
 D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.Android\obj\Debug\120\android\assets\System.Core.dll
