@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Shell xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:viewsRaiz ="clr-namespace:AppRpgEtec"
+            xmlns:viewsUsuarios ="clr-namespace:AppRpgEtec.Views.Usuarios"
+            xmlns:viewsPersonagens ="clr-namespace:AppRpgEtec.Views.Personagens"
+            xmlns:viewsDsiputas ="clr-namespace:AppRpgEtec.Views.Disputas"
+             x:Class="AppRpgEtec.Views.FlyoutMenu">
+    <!-- xmlns:x=viewsRaiz ="clr-namespace:AppRpgEtec" -> Referencia p/ a pasta que está a view MainPage-->
+    <!-- xmlns -> para imports -->
+    <!-- criação dos itens de menu-->
+
+    <Shell.FlyoutHeaderTemplate>
+        <!-- imagem no header-->
+        <DataTemplate>
+            <Grid BackgroundColor="Transparent">
+                <Image Aspect="AspectFill" HeightRequest="250"
+                       Source="etec_cs.gif"/>
+
+            </Grid>
+        </DataTemplate>
+    </Shell.FlyoutHeaderTemplate>
+
+    <!--Item de menu que aponta para a página inicial-->
+    <!-- <FlyoutItem> -> icones dos menus no rodapé da página Shell-->
+    <FlyoutItem FlyoutDisplayOptions="AsMultipleItems">
+
+        <ShellContent x:Name="paginaInicial"
+                  Title="Página Inicial" Icon="Home.png"
+                  ContentTemplate="{DataTemplate viewsRaiz:MainPage}"/>
+
+        <ShellContent Title="Usuários" Icon="MenuUsuarios.png"
+                  ContentTemplate="{DataTemplate viewsUsuarios:ListagemView}"/>
+
+        <ShellContent Title="Personagens" Icon="MenuPersonagens.png"
+                  ContentTemplate="{DataTemplate viewsPersonagens:ListagemView}"/>
+
+        <ShellContent Title="Disputas" Icon="MenuDisputas.png"
+                  ContentTemplate="{DataTemplate viewsDsiputas:ListagemView}"/>
+
+        <!-- <tab> -> página de menu que contenha duas  abas -->
+        <Tab Title="Info" Route="Info" Icon="Info.png">
+            <ShellContent Title="Sobre" Route="Sobre" ContentTemplate="{DataTemplate viewsRaiz:AboutPage}"/>
+
+            <ShellContent Title="Descrição" Route="desc" ContentTemplate="{DataTemplate viewsRaiz:DescriptionPage}"/>
+        </Tab>
+    </FlyoutItem>
+    <!--- item d emenu para sair do app-->
+    <ShellContent Title="Sair" Icon="Exit.png" ContentTemplate="{DataTemplate viewsUsuarios:LoginView}"/>
+
+    <!-- <Shell.FlyoutFooter> -> rodapé para o menu-->
+    <Shell.FlyoutFooter>
+        <Label x:Name="lblLogin" TextColor="Black" FontAttributes="Bold" HorizontalOptions="Center"/>
+    </Shell.FlyoutFooter>
+</Shell>

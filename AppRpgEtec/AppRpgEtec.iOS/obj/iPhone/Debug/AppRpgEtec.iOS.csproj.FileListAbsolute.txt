@@ -45,7 +45,10 @@ D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\zh-HK\X
 D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
 D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
 D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\AppRpgEtec.dll
+D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Mono.Android.dll
 D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\AppRpgEtec.pdb
+D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Mono.Android.pdb
+D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\bin\iPhone\Debug\Mono.Android.xml
 D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
 D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
 D:\charlene\PDAMII\AppRpgEtec\AppRpgEtec\AppRpgEtec.iOS\obj\iPhone\Debug\actool\_ProcessedImageAssetsPath.items

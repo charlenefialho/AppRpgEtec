@@ -6,6 +6,7 @@ using AppRpgEtec.Models;
 using System.Windows.Input; //using do ICommand
 using Xamarin.Forms;
 using System.Threading.Tasks;
+using AppRpgEtec.Views;
 
 
 namespace AppRpgEtec.ViewModels.Usuarios
@@ -51,7 +52,7 @@ namespace AppRpgEtec.ViewModels.Usuarios
 
                     await Application.Current.MainPage.DisplayAlert("Informação", mensagem, "Ok");
 
-                    Application.Current.MainPage = new AppRpgEtec.MainPage();
+                    Application.Current.MainPage = new FlyoutMenu();
                 }
                 else
                 {
